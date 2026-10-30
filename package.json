@@ -1,0 +1,24 @@
+{
+  "name": "buildcore-web-demo",
+  "version": "1.0.0",
+  "description": "BuildCore Technologies is a multi-section digital platform and brand website designed to position a technology company as a builder of digital infrastructure, practical support systems, and opportunity across Africa. The project combines elegant marketing presentation with a ready-to-connect backend foundation for builder onboarding, authentication, and private communication.",
+  "main": "admin-dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taurai16swi/BUILDCORE-WEB-DEMO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/taurai16swi/BUILDCORE-WEB-DEMO/issues"
+  },
+  "homepage": "https://github.com/taurai16swi/BUILDCORE-WEB-DEMO#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0"
+  }
+}
